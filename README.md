@@ -6,8 +6,6 @@ I'm a cryptographer at Cloudflare!
   and TLS.
 - 😄 Pronouns: she/her.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=claucece)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **claucece/claucece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
