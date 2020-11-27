@@ -2,7 +2,7 @@
 
 I'm a cryptographer at Cloudflare!
 
-- 🔭 I’m currently working on OPAQUE, (V)OPRF, deniability, secure messaging, PQ algorithms
+- 🔭 I’m currently working on OTR, OPAQUE, (V)OPRF, deniability, secure messaging, PQ algorithms
   and TLS.
 - 😄 Pronouns: she/her.
 
