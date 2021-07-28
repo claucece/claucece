@@ -3,7 +3,7 @@
 I'm a cryptographer at Cloudflare!
 
 - 🔭 I’m currently working on OTR, OPAQUE, (V)OPRF, deniability, secure messaging, PQ algorithms,
-  TLS and Privacy Pass!
+  TLS, DNSSEC and Privacy Pass!
 - 😄 Pronouns: she/her.
 
 <!--
