@@ -4,7 +4,7 @@ I'm a cryptographer at Cloudflare!
 
 - 🔭 I’m currently working on OTR, OPAQUE, (V)OPRF, deniability, secure messaging, PQ algorithms,
   TLS, DNSSEC and Privacy Pass!
-- 😄 Pronouns: she/her.
+- 😄 Pronouns: she/her, they/them.
 
 <!--
 **claucece/claucece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
