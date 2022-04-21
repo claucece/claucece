@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a cryptographer at Cloudflare!
+I'm a cryptographer!
 
 - 🔭 I’m currently working on OTR, OPAQUE, (V)OPRF, deniability, secure messaging, PQ algorithms,
   TLS, DNSSEC and Privacy Pass!
