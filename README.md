@@ -2,7 +2,7 @@
 
 I'm a cryptographer working at Brave!
 
-- 🔭 I’m currently working on OTR, OPAQUE, (V)OPRF, deniability, secure messaging, PQ algorithms,
+- 🔭 I’m currently working on PIR, OTR, OPAQUE, AKE,(V)OPRF, deniability, secure messaging, PQ algorithms,
   TLS, DNSSEC and Privacy Pass!
 - 😄 Pronouns: she/her, they/them.
 
