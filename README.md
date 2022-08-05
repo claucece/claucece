@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a cryptographer working at Brave!
+I'm a cryptographer happily and proudly working at Brave!
 
 - 🔭 I’m currently working on PIR, OTR, OPAQUE, AKE, (V)OPRF, deniability, secure messaging, PQ algorithms,
   TLS, DNSSEC and Privacy Pass!
