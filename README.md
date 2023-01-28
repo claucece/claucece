@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My profiles:
+
+<a class="footer-link" href="https://infosec.exchange/@claucece" target="_blank" title="Check out my Mastodon" rel="me"> Mastodon </a> 
