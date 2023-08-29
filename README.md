@@ -2,8 +2,7 @@
 
 I'm a cryptographer happily and proudly working at Brave! ⚛️⚛️⚛️
 
-- 🔭 I’m currently working on PIR, OTR, OPAQUE, AKE, (V)OPRF, deniability, secure messaging, PQ algorithms,
-  TLS, DNSSEC and Privacy Pass!
+- 🔭 I’m currently working on cryptography: applied to the real-world and cryptanalysis!
  - 👯 I’m Latin American and I love it!
  - 🌱 I’m currently learning cyclotomics!
 - 😄 Pronouns: she/her, they/them.
