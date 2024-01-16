@@ -1,4 +1,5 @@
 ### Hi there 👋
+🎩🍴👀💚🦢🛒🏴‍☠️ 
 
 I'm a cryptographer happily and proudly working at Brave! ⚛️⚛️⚛️
 
