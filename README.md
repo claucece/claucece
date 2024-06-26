@@ -1,7 +1,7 @@
 ### Hi there 👋
 🎩🍴👀💚🦢🛒🏴‍☠️ 
 
-I'm a cryptographer happily and proudly working at Brave! ⚛️⚛️⚛️
+I'm a cryptographer! ⚛️⚛️⚛️
 
 - 🔭 I’m currently working on cryptography: applied to the real-world and cryptanalysis!
  - 👯 I’m Latin American and I love it!
